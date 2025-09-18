@@ -1,0 +1,1 @@
+Problem: A block of mass m is released from rest at the top of a frictionless inclined plane of angle θ and height h. Determine the speed of the block when it reaches the bottom of the incline.
